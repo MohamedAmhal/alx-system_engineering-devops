@@ -1,1 +1,1 @@
-mu first file readme
+this a readme file im this directory
